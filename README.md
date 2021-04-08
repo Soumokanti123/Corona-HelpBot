@@ -18,3 +18,5 @@ For this project, I have named my JSON file as WHO.json
 In the JSON file tag is the category in which all those responses fall.
 patterns are used for listing all possible question patterns.
 responses contains all the responses with respect to the patterned questions.
+# Bag of Words:
+As we know neural networks and machine learning algorithms require numerical input. So out list of strings won’t cut it. We need some way to represent our sentences with numbers and this is where a bag of words comes in.What we are going to do is represent each sentence with a list the length of the number of words in our model vocabulary. Each position in the list will represent a word from our vocabulary.f the position in the list is a 1 then that will mean that the word exists in our sentence, if it is a 0 then the word is nor present.
