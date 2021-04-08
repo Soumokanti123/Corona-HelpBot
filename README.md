@@ -17,4 +17,4 @@ The JSON file used for the project is WHO
 For this project, I have named my JSON file as WHO.json
 In the JSON file tag is the category in which all those responses fall.
 patterns are used for listing all possible question patterns.
-responses contains all the responses with respect to the patterned questions
+responses contains all the responses with respect to the patterned questions.
